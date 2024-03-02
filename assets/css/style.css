@@ -9,6 +9,7 @@
     }
 }
 
+
 .text-primary {
     color: var(--bs-blue)!important;
 }
@@ -31,12 +32,14 @@ body {
 
 nav {
     background-color: #E83E8C !important;
+
 }
 
 .contenedor-nav  {
     padding-left: 12rem !important; 
     padding-right: 12rem !important;
     height: 7.5rem !important; 
+
 }
 
 .logo img {
@@ -73,5 +76,5 @@ footer h2 {
 
 .fa-brands {
     color: #ffffff;
-    
+
 }
