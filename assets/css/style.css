@@ -68,9 +68,10 @@ footer section img {
 
 footer h2 {
     color: #ffffff;
+    font-size: 4rem;
 }
 
-footer i {
+.fa-brands {
     color: #ffffff;
-
+    
 }
