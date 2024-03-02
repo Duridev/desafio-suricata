@@ -1,0 +1,67 @@
+:root { 
+    --bs-red: #E83E8C;
+    --bs-blue: #17A2B8;
+}
+
+@media (min-width: 992px){
+    .navbar-expand-lg .navbar-nav .nav-link {
+    --bs-navbar-nav-link-padding-x: 2rem;
+    }
+}
+
+.text-primary {
+    color: var(--bs-blue)!important;
+}
+
+.bg-primary {
+    background-color: var(--bs-blue)!important;
+}
+
+.bg-danger {
+    background-color: var(--bs-red)!important;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-size: 1.6rem;
+}
+
+nav {
+    background-color: #E83E8C !important;
+}
+
+.contenedor-nav  {
+    padding-left: 12rem !important; 
+    padding-right: 12rem !important;
+    height: 7.5rem !important; 
+}
+
+.logo img {
+    height: 5rem !important;
+}
+
+.nuestros-productos {
+    font-size: 8rem;
+    margin-top: 6rem;
+    margin-bottom: 8rem;
+    color: #707070
+}
+
+article {
+    margin-bottom: 6.5rem;
+}
+
+.footer-blue {
+    height: 17rem;
+}
+
+.footer-red {
+    height: 18.5rem;
+}
+
+footer section img {
+    height: 10rem;
+}
